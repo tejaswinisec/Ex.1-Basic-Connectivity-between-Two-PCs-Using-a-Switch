@@ -11,6 +11,7 @@ ________________________________________
 •	Optional: Wireless Router, Server, Cloud
 ________________________________________
 # Network Topology Diagram
+<img width="1920" height="1200" alt="Screenshot 2026-07-22 114350" src="https://github.com/user-attachments/assets/2843f89c-d47f-4c40-b6cb-ba423cb377e1" />
 
 Insert the network topology from Packet Tracer (Screenshot or drawing)
 
@@ -39,6 +40,8 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="1920" height="1200" alt="Screenshot 2026-07-22 114413" src="https://github.com/user-attachments/assets/54238ff6-3858-4d8a-a333-ed59fc6f05e4" />
+<img width="877" height="893" alt="Screenshot 2026-07-22 114510" src="https://github.com/user-attachments/assets/39f9401b-6503-4d39-bac1-dac35db3ecf6" />
 
 Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
